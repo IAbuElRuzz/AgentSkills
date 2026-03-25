@@ -1,4 +1,4 @@
-# AgentSkills
+gma# AgentSkills
 
 A curated library of domain-specific **skills** for AI coding assistants — Claude and Gemini. Each skill is a structured set of behavioral instructions, code examples, and reference guides that guide AI assistants to produce high-quality, production-ready code following established best practices.
 
