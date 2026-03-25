@@ -1,0 +1,103 @@
+# =========================
+# Python / General Ignored Files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.whl
+*.dist-info/
+*.pytest_cache/
+*.mypy_cache/
+*.coverage
+htmlcov/
+*.log
+*.sqlite3
+.env
+.env.*
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+__build__/
+__dist__/
+*.tar.gz
+*.zip
+*.egg
+*.whl
+
+# =========================
+# Node / Frontend (if applicable)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
+
+# =========================
+# Jupyter / Notebook
+# =========================
+.ipynb_checkpoints/
+*.ipynb
+
+# =========================
+# Test / Coverage
+# =========================
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# =========================
+# OS / System
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Gemini Specific
+# =========================
+.gemini/cache/
+.gemini/temp/
+.gemini/workspace-temp/
+.gemini/build/
+.gemini/outputs/
+.gemini/logs/
+
+# =========================
+# Miscellaneous
+# =========================
+*.bak
+*.orig
+*.old
+*.tmp

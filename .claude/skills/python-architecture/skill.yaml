@@ -1,0 +1,4 @@
+name: python-architecture
+description: Enforce high-quality Python class design with SOLID principles, testability, and maintainability
+version: 1.0
+prompt: SKILL.md

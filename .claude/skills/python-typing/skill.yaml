@@ -1,0 +1,4 @@
+name: python-typing
+description: Enforce strict Python typing and mypy compliance
+version: 1.0
+prompt: SKILL.md
